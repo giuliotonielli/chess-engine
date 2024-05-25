@@ -1,1 +1,1 @@
-web: java Engine
+web: java -cp src main.Engine
