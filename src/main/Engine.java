@@ -63,7 +63,7 @@ public class Engine {
 	
 	int POSITIONS_EVALUATED;    
 	
-	int INTERFACE = 2;
+	int INTERFACE = 0;
 	// 0: only console
 	// 1: chess.com
 	// 2: GUI
